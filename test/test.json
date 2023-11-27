@@ -1,0 +1,16 @@
+{
+  "flightWay": "Oneway",
+  "classType": "ALL",
+  "hasChild": "false",
+  "hasBaby": "false",
+  "searchIndex": 1,
+  "airportParams": [
+    {
+      "dcity": "CTU",
+      "acity": "SHA",
+      "dcityname": "成都",
+      "acityname": "上海",
+      "date": "2023-11-27"
+    }
+  ]
+}
