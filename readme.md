@@ -5,6 +5,9 @@
 
 3、nohup flask run --host=0.0.0.0 --port=3009 &
 
+### 请求接口
+/api/v1/get_info
+
 ### 请求入参
 ####
     {
